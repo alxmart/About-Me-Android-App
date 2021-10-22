@@ -2,4 +2,20 @@
     <string name="app_name">About Me</string>
     <string name="name">Luiz A. F. Martinez</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="bio"> Olá, Meu nome é Luiz Martinez.
+        \n\n Tenho +20 anos experiência em T.I.
+        \n\n Operações Mainframe, Schedulagem, Coordenação de Equipes, Gestão de Clientes,
+             GEstão de Contratos, Entrega de Serviços - IT Delivery, Gestão de Projeto,
+        Auditoria em Projetos, Scrum Master.
+        \n\n
+        \n\n Bacharel em Sistemas de Informação pelo FIPEP
+        \n\n Pós-graduado em Gestão de Projetos pela FGV
+        \n\n Curso de Extensão em GEstão e Empredorismo pela Babson College, nos USA
+        \n\n MBA em Gestão Estratégica de Pessoas: Desenvolvimento Humano de Gestores pela FGV
+        \n\n
+        \n\n Cursando Tecnologia em Sistemas para Internet na Unicesumar
+        \n\n Cursando DEsenvolvimento Web Full Stack no SENAI - SP
+        \n\n Certificações: ITIL V1,V2,V3, Green IT, Cloud Computing, Information Security,
+           Cloud itegrator, Agile Scrum, HTML & CSS\n\n </string>
+
 </resources>
