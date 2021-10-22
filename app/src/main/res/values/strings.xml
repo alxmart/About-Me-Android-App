@@ -20,5 +20,6 @@
         \n  Cursando Programação Java no SENAI.
         \n  Certificações: ITIL V1,V2,V3, Green IT,  Cloud Computing, Information Security,
            Cloud integrator, Agile Scrum, HTML e CSS. \n\n </string>
+    <string name="what_is_your_nickname">What is your nickname ?</string>
 
 </resources>
