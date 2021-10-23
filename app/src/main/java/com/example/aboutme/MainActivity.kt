@@ -25,9 +25,11 @@ class MainActivity : AppCompatActivity() {
     private fun addNickname(view: View) {
 
         val editText = findViewById<EditText>(R.id.nickname_edit)
+        // Ou poderia usar:
         //val editText: EditText = findViewById(R.id.nickname_edit)
 
         val nicknameTextView = findViewById<TextView>(R.id.nickname_text)
+        // Ou poderia usar:
         //val nicknameTextView: TextView = findViewById(R.id.nickname_text)
 
         nicknameTextView.text = editText.text
